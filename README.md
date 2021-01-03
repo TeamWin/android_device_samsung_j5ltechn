@@ -1,6 +1,6 @@
 # android_device_samsung_j5ltechn
 
-## Device tree for Samsung Galaxy J5 LTE
+## Device tree for Samsung Galaxy J5 LTE China
 
 Basic   | Spec Sheet
 -------:|:-------------------------
